@@ -9,6 +9,7 @@ Jika ada yang ingin ditanyakan, silahkan hubungi saya lewat email: tsabiqul.fikr
 Terdapat dua user pada project ini, yaitu:
 1. Admin.
 2. Calon Anggota (alternatif).
+
 Dua user ini akan menampilkan views yang berbeda, di mana perbedaan terdapat pada halaman dan fungsi yang tersedia.
 
 # Halaman dan Fungsi
