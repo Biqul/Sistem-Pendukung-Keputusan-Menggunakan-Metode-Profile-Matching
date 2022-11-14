@@ -1,7 +1,7 @@
 # Sistem-Pendukung-Keputusan-Menggunakan-Metode-Profile-Matching
 Sebuah Sistem Pendukung Keputusan Menggunakan Metode Profile Matching.
 
-# Warning!
+# Perhatian!
 Project ini tidak untuk diperjual belikan. Untuk para mahasiswa project ini boleh dijadikan sebagai referensi.
 Jika ada yang ingin ditanyakan, silahkan hubungi saya lewat email: tsabiqul.fikri@outlook.com
 
