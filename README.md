@@ -23,6 +23,7 @@ Halaman yang terdapat pada user Admin:
 8. Hasil Perhitungan: Menampilkan hasil perhitungan dari nilai yang telah diberikan sebelumnya. 
 9. Ubah Kata Sandi: Mengubah kata sandi akun yang sedang login.
 
+
 Halaman yang terdapat pada user Calon Anggota:
 1. Dashboard: Menampilkan informasi terkait organisasi/perusahaan kalian.
 2. Pendaftaran: Menampilkan informasi seleksi yang sedang buka dan calon anggota dapat mendaftar pada seleksi yang dibuka.
