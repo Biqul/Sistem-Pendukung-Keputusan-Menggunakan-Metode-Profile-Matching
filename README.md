@@ -32,9 +32,9 @@ Halaman yang terdapat pada user Calon Anggota:
 
 # Alur Program
 1. Admin membuat seleksi baru.
-2. Admin membuat aspek baru.
-3. Admin membuat kriteria baru.
-4. Calon anggota mendaftar pada seleksi yang dibuka.
+2. Calon anggota mendaftar pada seleksi yang dibuka.
+3. Admin menentukan aspek yang diperlukan.
+4. Admin menentukan kriteria yang diperlukan.
 5. Admin mengubah status seleksi menjadi tutup.
 6. Admin melakukan penilaian calon anggota pada seleksi.
 7. Admin mengeksekusi perhitungan pada halaman perhitungan.
