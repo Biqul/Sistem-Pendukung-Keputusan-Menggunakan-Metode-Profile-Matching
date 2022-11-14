@@ -1,0 +1,72 @@
+ul.progressBar {
+  list-style: none;
+  position: relative;
+  height: 500px;
+  float: left;
+}
+
+.progressBar li:first-child {
+  border-radius: 5px 5px 0 0;    
+}
+
+.progressBar li {
+  width: 6px;
+  background: #00b164;
+  height: 12.5%;
+}
+
+.progressBar li.fail.active  {
+  width: 6px;
+  background: red;
+  height: 12.5%;
+}
+
+.progressBar li::after {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: #00b164;
+  border-radius: 50%;
+  position: relative;
+  left: -5px;
+  top: calc(100% - 5px);
+}
+
+.progressBar li.fail.active::after {
+  content: "";
+  display: block;
+  width: 16px;
+  height: 16px;
+  background: red;
+  border-radius: 50%;
+  position: relative;
+  left: -5px;
+  top: calc(100% - 5px);
+}
+
+.progressBar li.active ~ li, .progressBar li.active ~ li::after {
+  background: #c5c5c5;
+}
+
+ul.progressText {
+  list-style: none;
+  height: 500px;
+  margin-left: 30px;
+  position: relative;
+  top: 73px;
+}
+
+ul.progressText li{
+  height: 12.5%;
+  color: #00b164;
+}
+
+ul.progressText li.fail.active{
+  height: 12.5%;
+  color: red;
+}
+
+.progressText li.active ~ li, .progressText li.active ~ li::after {
+  color: #c5c5c5;
+}
